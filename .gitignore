@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional dependency directories
+/.pnp
+.pnp.js
+
+# Logs
+logs
+*.log
+logs/
+
+# Directory for local environments or system-specific configurations
+.env
+.env.local
+.env.*.local
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build directory (optional, if you have a build process)
+dist/
+build/
+
+# Cache and output
+.cache/
+out/
